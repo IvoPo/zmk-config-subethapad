@@ -1,0 +1,12 @@
+file_format: "1"
+id: subethapad
+name: Sub-Etha-Pad
+type: shield
+url: https://github.com/piit79/qmk_firmware/tree/master/keyboards/42keebs/sub_etha_pad
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
+  - underglow
